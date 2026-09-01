@@ -1,0 +1,26 @@
+{
+  "info": {
+    "title": "New Collection",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "summary": "New Request",
+        "responses": {
+          "200": {
+            "description": "Successful response"
+          }
+        },
+        "operationId": "get",
+        "x-fern-sdk-method-name": "New Request"
+      }
+    }
+  },
+  "openapi": "3.1.0",
+  "servers": [
+    {
+      "url": "https://example.com"
+    }
+  ]
+}
