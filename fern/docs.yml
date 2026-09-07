@@ -38,7 +38,7 @@ logo:
   light: docs/assets/logo-datadog.png
   height: 60
   href: https://buildwithfern.com
-favicon: docs/assets/favicon.svg
+favicon: docs/assets/logo-datadog.png
 css:
   - styles.css
   - docs/assets/onboarding-theme.css
