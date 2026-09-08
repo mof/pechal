@@ -12,6 +12,7 @@ title: home-850115 | Documentation
 layout:
   searchbar-placement: header
   page-width: full
+  tabs-placement: header
 
 tabs:
   documentation:
