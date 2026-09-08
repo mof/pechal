@@ -22,12 +22,12 @@ tabs:
     icon: fa-regular fa-code
 
 navigation:
-  - tab: Documentation
+  - tab: documentation
     layout:
       - page: Introduction
         path: docs/pages/introduction.mdx
 
-  - tab: API Reference
+  - tab: api-reference
     layout:
       - api: Datadog API
         api-name: datadog-small-5
