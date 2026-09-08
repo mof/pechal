@@ -43,9 +43,6 @@ navigation:
             icon: fa-duotone fa-book
       - api: Datadog API
         api-name: datadog-small-5
-        layout:
-          - page: Introduction
-            path: docs/pages/introduction.mdx
 colors:
   accent-primary:
     light: "#008700"
