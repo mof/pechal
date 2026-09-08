@@ -16,8 +16,8 @@ layout:
 
 tabs:
   documentation:
-    display-name: Documentation
-    icon: fa-regular fa-book
+    display-name: Docs
+    icon: home
   api-reference:
     display-name: API Reference
     icon: fa-regular fa-code
@@ -25,8 +25,11 @@ tabs:
 navigation:
   - tab: documentation
     layout:
-      - page: Introduction
-        path: docs/pages/introduction.mdx
+      - section: Get started
+        contents:
+          - page: Introduction
+            path: docs/pages/about-us.mdx
+            icon: fa-duotone fa-house
 
   - tab: api-reference
     layout:
