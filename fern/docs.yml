@@ -13,16 +13,18 @@ layout:
   searchbar-placement: header
   page-width: full
 navigation:
-  - api: New Collection
-    api-name: collection
+  - tab: Documentation
     layout:
       - page: Introduction
         path: docs/pages/introduction.mdx
-  - api: Datadog API Collection Small
-    api-name: datadog-small-5
+
+  - tab: API Reference
     layout:
-      - page: Introduction
-        path: docs/pages/introduction.mdx
+      - api: Datadog API
+        api-name: datadog-small-5
+        layout:
+          - page: Introduction
+            path: docs/pages/introduction.mdx
 colors:
   accent-primary:
     light: "#008700"
