@@ -12,6 +12,15 @@ title: home-850115 | Documentation
 layout:
   searchbar-placement: header
   page-width: full
+
+tabs:
+  documentation:
+    display-name: Documentation
+    icon: fa-regular fa-book
+  api-reference:
+    display-name: API Reference
+    icon: fa-regular fa-code
+
 navigation:
   - tab: Documentation
     layout:
