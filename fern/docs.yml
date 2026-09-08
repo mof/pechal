@@ -30,11 +30,9 @@ navigation:
           - page: Introduction
             path: docs/pages/about-us.mdx
             icon: fa-duotone fa-house
-      - section: Other
+      - section: Changelog
         contents:
-          - page: Second
-            path: docs/pages/second.mdx
-            icon: fa-duotone fa-house
+          - changelog: docs/changelog
 
   - tab: api-reference
     layout:
