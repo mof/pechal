@@ -30,6 +30,11 @@ navigation:
           - page: Introduction
             path: docs/pages/about-us.mdx
             icon: fa-duotone fa-house
+      - section: Other
+        contents:
+          - page: Second
+            path: docs/pages/second.mdx
+            icon: fa-duotone fa-house
 
   - tab: api-reference
     layout:
