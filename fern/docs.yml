@@ -36,6 +36,11 @@ navigation:
 
   - tab: api-reference
     layout:
+      - section: Overview
+        contents:
+          - page: API reference
+            path: docs/pages/introduction.mdx
+            icon: fa-duotone fa-book
       - api: Datadog API
         api-name: datadog-small-5
         layout:
