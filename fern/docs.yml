@@ -42,6 +42,7 @@ navigation:
             path: docs/pages/introduction.mdx
             icon: fa-duotone fa-book
       - api: Datadog API
+        collapsed: true
         api-name: datadog-small-5
 colors:
   accent-primary:
